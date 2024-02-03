@@ -1,14 +1,14 @@
-# Image Processing with Pillow, NumPy, OpenCV, and Matplotlib
+# Image Processing with Pillow, NumPy, OpenCV, and Matplotlib 📸🚀
 
 ## Overview
 
 This project focuses on image processing using Python libraries such as Pillow (PIL), NumPy, OpenCV (cv2), and Matplotlib. The primary objective is to demonstrate the process of converting a blurred image to a clear one by applying various image processing techniques.
 
-## Requirements
+## Requirements 🛠️
 
 Ensure you have the following dependencies installed:
 
-- Python 3.10
+- Python 3.6.2
 - Pillow (PIL)
 - NumPy
 - OpenCV (cv2)
